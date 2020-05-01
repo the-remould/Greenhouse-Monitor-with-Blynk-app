@@ -14,8 +14,8 @@
 char auth[] = "967eed9856ea4be2924f8b24737b64fa";
 
 /* WiFi credentials */
-char ssid[] = "HOME";
-char pass[] = "southampton";
+char ssid[] = "****";
+char pass[] = "********";
 
 /* TIMER */
 #include <SimpleTimer.h>
