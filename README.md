@@ -1,4 +1,4 @@
-# Pool-Heater (now in the Greenhouse)
+# Pool Heating App (now in the Greenhouse)
 Heating System monitored and controlled by Blynk app...
 
 3 waterproof sensors-
