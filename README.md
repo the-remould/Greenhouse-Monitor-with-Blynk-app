@@ -1,5 +1,4 @@
-# Pool Heating App (now in the Greenhouse)
-Heating System monitored and controlled by Blynk app...
+Greenhouse Temperature Monitor with Blynk app
 
 3 waterproof sensors-
 Sensor A measures ambient room temperature, B is in the soil, C is on the heater element.
